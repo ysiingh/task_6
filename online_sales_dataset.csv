@@ -1,0 +1,101 @@
+order_id,customer_name,product_name,category,quantity,price,order_date,region,payment_method,order_status
+ORD1000,Norma Fisher,Event,Home & Kitchen,7,29.84,2024-12-24,West,PayPal,Returned
+ORD1001,Dr. Ronald Faulkner,Help,Home & Kitchen,6,295.86,2025-01-21,South,Bank Transfer,Delivered
+ORD1002,Colleen Taylor,Challenge,Books,3,380.34,2025-03-29,East,Bank Transfer,Cancelled
+ORD1003,Robert Archer,No,Clothing,5,58.39,2025-03-09,North,Bank Transfer,Returned
+ORD1004,Stephanie Collins,Show,Home & Kitchen,9,59.34,2024-07-07,West,PayPal,Cancelled
+ORD1005,Melinda Kennedy,Blood,Clothing,9,243.73,2024-10-24,East,Credit Card,Cancelled
+ORD1006,Levi Durham,Old,Electronics,2,362.66,2024-12-11,West,Bank Transfer,Cancelled
+ORD1007,Joseph Brown,Why,Electronics,10,251.85,2025-01-08,East,Credit Card,Cancelled
+ORD1008,Anna Larsen,See,Books,2,103.62,2025-04-25,South,Credit Card,Delivered
+ORD1009,Lori Salazar,Their,Home & Kitchen,2,49.42,2025-05-11,East,Bank Transfer,Returned
+ORD1010,Nicholas Padilla,At,Electronics,5,280.12,2024-08-22,North,Bank Transfer,Returned
+ORD1011,Connie Pratt,Change,Clothing,10,278.14,2025-04-16,East,PayPal,Delivered
+ORD1012,Anna Kaiser,Type,Home & Kitchen,6,292.07,2024-12-23,East,Credit Card,Delivered
+ORD1013,Mrs. Elizabeth Carter MD,Go,Clothing,1,310.26,2025-04-21,East,PayPal,Delivered
+ORD1014,Christina Lloyd,Officer,Electronics,3,439.62,2025-01-23,North,Credit Card,Cancelled
+ORD1015,Brandon Yates,Free,Home & Kitchen,9,145.06,2025-01-18,South,Credit Card,Cancelled
+ORD1016,Clinton Underwood,Alone,Home & Kitchen,10,144.85,2025-02-01,West,Bank Transfer,Cancelled
+ORD1017,Mrs. Andrea Shelton,Case,Books,2,168.92,2025-05-15,North,PayPal,Cancelled
+ORD1018,Andrew Miller,Scene,Books,4,129.09,2025-06-02,East,Credit Card,Cancelled
+ORD1019,Melinda Massey,Network,Clothing,6,399.35,2024-09-24,East,PayPal,Delivered
+ORD1020,Cynthia Lewis,Respond,Electronics,3,429.11,2025-01-24,South,Credit Card,Cancelled
+ORD1021,Jennifer Hill,Mind,Electronics,1,70.98,2025-02-20,South,Bank Transfer,Cancelled
+ORD1022,Melody Haas,Heavy,Electronics,7,54.85,2024-07-10,North,Credit Card,Cancelled
+ORD1023,Brian Matthews,Government,Electronics,4,480.91,2025-05-03,South,Bank Transfer,Delivered
+ORD1024,Alan Nelson,Season,Home & Kitchen,4,366.31,2024-09-02,North,Bank Transfer,Delivered
+ORD1025,Christopher Simmons,Assume,Home & Kitchen,10,59.74,2024-07-18,East,Credit Card,Delivered
+ORD1026,Savannah Robinson,Technology,Electronics,5,181.64,2025-01-17,South,Credit Card,Cancelled
+ORD1027,Taylor Guzman,Back,Home & Kitchen,1,302.28,2024-06-19,West,Credit Card,Returned
+ORD1028,Colin Greer,Call,Books,8,420.78,2024-11-07,South,Bank Transfer,Cancelled
+ORD1029,Roy Wilson,Police,Clothing,1,396.44,2024-06-17,South,Credit Card,Returned
+ORD1030,Wesley Robbins,Measure,Books,2,302.43,2024-08-29,West,Bank Transfer,Delivered
+ORD1031,Amy Shelton,Off,Electronics,8,343.83,2024-11-21,East,Bank Transfer,Returned
+ORD1032,Sara Jones,Away,Home & Kitchen,5,85.17,2025-02-15,North,PayPal,Cancelled
+ORD1033,Jeffrey Brown,Manage,Electronics,6,372.12,2024-06-24,East,Credit Card,Delivered
+ORD1034,Melissa Myers,Ever,Home & Kitchen,6,308.97,2024-10-26,East,Bank Transfer,Cancelled
+ORD1035,Julie Barrera,Over,Clothing,5,200.13,2024-08-13,West,Bank Transfer,Delivered
+ORD1036,Christina Saunders,Story,Electronics,10,104.23,2025-02-26,East,Credit Card,Delivered
+ORD1037,Christopher Moreno,Buy,Clothing,8,195.54,2025-01-26,West,Credit Card,Returned
+ORD1038,Mary Smith,Responsibility,Home & Kitchen,1,91.18,2024-11-15,North,PayPal,Cancelled
+ORD1039,Shelly Lowery,Range,Clothing,8,268.51,2024-10-25,West,Bank Transfer,Cancelled
+ORD1040,Matthew Hernandez,Rock,Electronics,1,252.35,2024-06-13,East,PayPal,Delivered
+ORD1041,Bob Stevenson,Off,Home & Kitchen,4,278.8,2024-09-26,North,Bank Transfer,Delivered
+ORD1042,Philip Olson,Poor,Electronics,7,475.28,2024-09-28,West,PayPal,Delivered
+ORD1043,Leslie Mcclain,Too,Clothing,1,361.49,2025-02-05,North,Bank Transfer,Cancelled
+ORD1044,Eric Goodman,Them,Electronics,4,68.26,2025-02-16,South,PayPal,Returned
+ORD1045,Kristopher Hale,Collection,Clothing,2,243.05,2024-09-09,West,Bank Transfer,Delivered
+ORD1046,Jerome Page,Report,Electronics,5,457.8,2025-01-15,North,PayPal,Delivered
+ORD1047,Amanda Savage,Out,Books,2,437.21,2024-11-18,East,Credit Card,Delivered
+ORD1048,Michelle Martin,Attack,Electronics,4,343.69,2024-09-17,East,PayPal,Cancelled
+ORD1049,Jill Dyer,Whatever,Electronics,10,331.13,2025-01-13,West,Bank Transfer,Returned
+ORD1050,April Williams,Gas,Books,9,97.36,2024-10-08,West,Bank Transfer,Returned
+ORD1051,Amber Carson,Task,Electronics,3,84.0,2024-11-17,East,PayPal,Returned
+ORD1052,Zachary Schultz,Because,Electronics,6,391.91,2025-04-30,North,Credit Card,Returned
+ORD1053,Victoria Morales,Resource,Clothing,3,491.14,2024-11-18,East,PayPal,Returned
+ORD1054,Daniel Love,Able,Clothing,5,66.3,2025-04-24,South,Credit Card,Returned
+ORD1055,Lisa Lee,Political,Clothing,9,367.04,2025-02-16,East,PayPal,Returned
+ORD1056,Eric Barker,Court,Books,7,63.24,2024-07-17,West,PayPal,Returned
+ORD1057,Thomas Burton,Age,Books,2,244.75,2024-09-23,West,PayPal,Delivered
+ORD1058,Rebecca Wilson,Establish,Books,6,370.03,2024-07-30,South,Credit Card,Cancelled
+ORD1059,Ruth Newman,Building,Home & Kitchen,2,42.26,2025-05-13,North,Credit Card,Cancelled
+ORD1060,Samuel Williams,Describe,Clothing,1,198.56,2025-02-28,North,PayPal,Cancelled
+ORD1061,Ernest Richardson,Out,Books,8,460.87,2025-05-28,South,PayPal,Delivered
+ORD1062,Sarah Ali,Political,Books,4,494.34,2025-02-18,East,Bank Transfer,Delivered
+ORD1063,Mathew Ellis MD,Try,Home & Kitchen,4,185.67,2025-01-03,North,Bank Transfer,Delivered
+ORD1064,James Carter,Certainly,Home & Kitchen,4,68.27,2024-08-06,West,PayPal,Delivered
+ORD1065,George Richardson,Better,Electronics,4,315.47,2024-10-18,North,Credit Card,Returned
+ORD1066,Amanda Nelson,Citizen,Home & Kitchen,6,277.73,2025-01-21,South,Credit Card,Cancelled
+ORD1067,James Kelley,Finally,Home & Kitchen,3,286.31,2024-07-23,West,Bank Transfer,Returned
+ORD1068,David Williams,Country,Books,8,499.11,2025-05-07,South,Bank Transfer,Cancelled
+ORD1069,Andrea Powell,Get,Clothing,1,176.71,2024-10-03,East,PayPal,Delivered
+ORD1070,Brett Kerr,Matter,Clothing,5,305.27,2024-10-17,South,PayPal,Cancelled
+ORD1071,Vanessa Cooper,Measure,Books,8,42.52,2024-07-24,North,Bank Transfer,Delivered
+ORD1072,Jessica Turner,Simple,Electronics,4,73.94,2025-03-02,East,Credit Card,Returned
+ORD1073,Tamara Sims,How,Books,3,402.32,2025-04-18,West,PayPal,Cancelled
+ORD1074,Margaret Jones,Become,Home & Kitchen,9,256.19,2024-08-24,North,Bank Transfer,Cancelled
+ORD1075,Amy Smith,Indeed,Electronics,7,453.83,2025-01-11,South,PayPal,Cancelled
+ORD1076,Joan Burns,Pattern,Home & Kitchen,8,424.29,2025-03-13,West,Bank Transfer,Cancelled
+ORD1077,Jenny Richardson,Every,Clothing,1,331.92,2025-01-22,North,Bank Transfer,Delivered
+ORD1078,Jessica Howard,Attack,Books,9,289.43,2025-04-24,East,Credit Card,Returned
+ORD1079,Michaela Leach,Live,Books,5,388.52,2025-03-28,West,PayPal,Delivered
+ORD1080,Barbara Sanders,Despite,Clothing,3,127.09,2025-02-12,East,Credit Card,Delivered
+ORD1081,Travis Lewis,Child,Home & Kitchen,7,79.04,2024-07-19,North,Bank Transfer,Cancelled
+ORD1082,James Payne,City,Clothing,6,211.46,2024-07-19,West,PayPal,Returned
+ORD1083,Victoria Hernandez MD,Response,Electronics,2,240.74,2024-11-20,South,Credit Card,Delivered
+ORD1084,Kathleen Stark,Future,Clothing,6,61.59,2025-04-28,East,Credit Card,Returned
+ORD1085,Mr. Michael Harris DDS,Discuss,Home & Kitchen,2,441.83,2024-06-12,West,Bank Transfer,Cancelled
+ORD1086,Victor Nolan,Television,Books,2,485.05,2024-10-11,East,Credit Card,Returned
+ORD1087,Charles Scott,Step,Books,2,264.31,2024-08-08,South,Credit Card,Returned
+ORD1088,Lauren Robbins,Surface,Home & Kitchen,6,380.74,2024-12-08,West,PayPal,Cancelled
+ORD1089,Bradley Melton,Among,Electronics,1,451.94,2024-07-04,North,PayPal,Returned
+ORD1090,Andrew Smith,Three,Electronics,9,336.59,2024-11-30,South,Credit Card,Delivered
+ORD1091,Christopher Hernandez,Reality,Home & Kitchen,9,159.6,2024-12-04,North,Credit Card,Returned
+ORD1092,Kathy Santana,Morning,Home & Kitchen,2,468.52,2024-06-22,West,Credit Card,Delivered
+ORD1093,Meghan Trujillo,Son,Home & Kitchen,3,369.8,2025-01-28,North,PayPal,Returned
+ORD1094,Nicole Bullock MD,North,Home & Kitchen,1,253.35,2025-05-24,East,Bank Transfer,Returned
+ORD1095,Samantha Olson,Strong,Electronics,6,44.46,2024-11-06,East,Bank Transfer,Delivered
+ORD1096,Cynthia Hancock,Again,Books,6,97.17,2025-02-19,South,PayPal,Delivered
+ORD1097,Natalie Turner,Over,Clothing,4,11.58,2024-09-15,North,Bank Transfer,Delivered
+ORD1098,Johnny Green,Thank,Books,6,347.84,2024-10-04,South,Credit Card,Delivered
+ORD1099,Janet Reyes,Common,Home & Kitchen,2,243.58,2025-02-12,East,Credit Card,Delivered
