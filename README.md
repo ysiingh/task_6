@@ -1,7 +1,10 @@
 
 # Task_6
+## Tools Used
+- MySQL Server 8.0
+- MySQL Workbench 8.0
 
-## Dataset: new_online_sales_dataset.csv
+## Dataset: online_sales_dataset.csv
 - **Rows**: 100  orders
 - **Fields**:
   - `order_id` (Primary Key)
